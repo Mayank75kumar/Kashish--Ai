@@ -1,0 +1,12 @@
+{
+  "name": "Kashish AI",
+  "description": "A visually stunning, sassy, and intelligent Indian AI assistant. Kashish is witty, dramatic, and loves Hinglish conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Real-time Voice AI",
+    "Smart Command Routing",
+    "Cinematic UI"
+  ]
+}
